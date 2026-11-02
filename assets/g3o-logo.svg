@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+<title id="title">G3O Spatial Solutions mark</title>
+<rect width="512" height="512" fill="#fff"/>
+<defs><mask id="ring"><rect width="512" height="512" fill="#000"/><circle cx="256" cy="256" r="208" fill="#fff"/><circle cx="256" cy="256" r="138" fill="#000"/></mask></defs>
+<circle cx="256" cy="256" r="208" fill="#003f2d" mask="url(#ring)"/>
+<path d="M70 385 191 263 256 329 322 263 442 385 400 427 112 427Z" fill="#006b45"/>
+<path d="M70 385 191 263 256 329 112 400Z" fill="#087a4d"/>
+<path d="M112 400 256 329 322 263 442 385 400 427 112 427Z" fill="#003f2d"/>
+<path d="M256 126c-39 0-71 32-71 71 0 19 8 34 19 50l52 75 52-75c11-16 19-31 19-50 0-39-32-71-71-71Z" fill="#08b94b"/>
+<circle cx="256" cy="197" r="28" fill="#003f2d"/>
+</svg>
