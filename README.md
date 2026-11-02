@@ -27,3 +27,7 @@ If Pages has not been enabled yet, open **Settings → Pages** and set the build
 ## Contact
 - Facebook: https://www.facebook.com/g3ospatialsolutions
 - Email: g3ospatialsolutions@gmail.com
+
+
+## Deployment status
+Pages is configured to deploy through GitHub Actions. Check the repository's Actions tab for the latest deployment run and its result.
