@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://g3ospatialsolutions.github.io/g3o-spatial-solutions/sitemap.xml
